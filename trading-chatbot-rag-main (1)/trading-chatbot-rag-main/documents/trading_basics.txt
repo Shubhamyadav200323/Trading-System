@@ -1,0 +1,14 @@
+What is CFD Trading?
+CFD stands for Contract for Difference. It is a financial derivative that allows traders to speculate on price movements without owning the underlying asset. When you trade CFDs, you're agreeing to exchange the difference in price from when you open the position to when you close it.
+
+What are the benefits of CFD Trading?
+CFDs offer several advantages including leverage, the ability to go long or short, access to global markets, and no ownership of physical assets. Traders can profit from both rising and falling markets.
+
+What is leverage in trading?
+Leverage allows traders to control a larger position with a smaller amount of capital. For example, with 10:1 leverage, you can control $10,000 worth of assets with just $1,000. However, leverage amplifies both profits and losses.
+
+What is a pip in forex trading?
+A pip (percentage in point) is the smallest price move in forex trading. For most currency pairs, a pip is 0.0001. For example, if EUR/USD moves from 1.1050 to 1.1051, that's a one pip movement.
+
+What is risk management?
+Risk management involves strategies to minimize potential losses in trading. This includes setting stop-loss orders, position sizing, diversification, and never risking more than you can afford to lose. Proper risk management is essential for long-term trading success.
